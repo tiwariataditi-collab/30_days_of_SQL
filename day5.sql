@@ -39,7 +39,7 @@ WHERE city = 'Chicago'; -- Updates multiple rows sharing a condition
 
 SELECT * FROM students;
 
-
+#DELETE statement is used to delete existing records in a table. It allows you to remove one or more rows that meet a specified condition.
 DELETE FROM students
 WHERE roll_no = 8; 
 
